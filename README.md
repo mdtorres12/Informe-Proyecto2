@@ -5,12 +5,12 @@ INTEGRANTES:
 OBJETIVOS
 
 MARCO TEÓRICO
-![image](https://user-images.githubusercontent.com/104913700/212765956-8fb91647-b208-45db-aa9e-dcda4e3cfce7.png)
-![image](https://user-images.githubusercontent.com/104913700/212766051-37bf399d-9f02-4077-b5e9-f8a50740549f.png)
-![image](https://user-images.githubusercontent.com/104913700/212766111-6f3af0d4-3995-4ba1-a029-eb171cd48082.png)
-![image](https://user-images.githubusercontent.com/104913700/212766163-cd760b67-f60c-44e5-bbb2-aa796c661e69.png)
-![image](https://user-images.githubusercontent.com/104913700/212766209-8c2a85d1-720a-48fd-8891-749c0289ba91.png)
 
+![image](https://user-images.githubusercontent.com/104913700/212766330-b33b98c9-ff82-4283-a1d1-f55c0353e98d.png)
+![image](https://user-images.githubusercontent.com/104913700/212766341-44eaf1d6-4fe0-442d-9f0b-ea46aa307a6a.png)
+![image](https://user-images.githubusercontent.com/104913700/212766355-04c9b183-9797-47d5-8012-a2dfa611a2f3.png)
+![image](https://user-images.githubusercontent.com/104913700/212766371-692f71f4-cb64-47a9-9bcd-7a5de16bdb0b.png)
+![image](https://user-images.githubusercontent.com/104913700/212766383-d82a11b6-ba53-49ce-9bb5-8ec7d74aa34a.png)
 
 
 EXPLICACIÓN DEL PROCEDIMIENTO
