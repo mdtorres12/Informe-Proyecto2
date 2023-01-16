@@ -2,6 +2,12 @@
 
 INTEGRANTES:
 
+Guanoluisa Kevin
+
+Torres María
+
+Tumbaco Angely
+
 OBJETIVOS
 
 MARCO TEÓRICO
