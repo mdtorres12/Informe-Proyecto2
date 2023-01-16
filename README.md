@@ -44,3 +44,8 @@ VIDEO
 CONCLUSIONES
 
 BIBLIOGRAFÍA
+
+EcuRed. (s. f.). Portalámparas - EcuRed. https://www.ecured.cu/Portal%C3%A1mparas
+
+Figueroa, F. (2022, 11 marzo). Circuito escalera, 3 vías, conmutable, vaivén paso a paso. SENSORICX. https://sensoricx.com/conocimiento/circuito-escalera-3-vias-conmutable-vaiven-paso-a-paso/
+
