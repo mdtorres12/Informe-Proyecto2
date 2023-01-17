@@ -10,6 +10,9 @@ Tumbaco Angely
 
 OBJETIVOS
 
+Objetivo General
+Aprender el funcionamiento de un circuito conmutador y como se lo aplica en el día a día. 
+
 MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/104913700/212766330-b33b98c9-ff82-4283-a1d1-f55c0353e98d.png)
