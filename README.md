@@ -11,8 +11,14 @@ Tumbaco Angely
 OBJETIVOS
 
 Objetivo General
+
 Aprender el funcionamiento de un circuito conmutador y como se lo aplica en el día a día. 
 
+Objetivos específicos 
+
+Analizar cómo actúa cada elemento dentro del circuito y su estructura. 
+
+Identificar los lugares donde es aplicable el circuito y a que tipo de circuito pertenece;la manera de instalarlo dentro de una casa. 
 MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/104913700/212766330-b33b98c9-ff82-4283-a1d1-f55c0353e98d.png)
@@ -47,6 +53,10 @@ VIDEO
 https://youtu.be/FUZLmZsI670
 
 CONCLUSIONES
+
+El circuito es más aplicable dentro de la casa, ya sea en dormitorios, pasillos, escaleras, etc. 
+
+Cada elemento tiene una función importante que ayuda al funcionamiento del circuito. 
 
 BIBLIOGRAFÍA
 
